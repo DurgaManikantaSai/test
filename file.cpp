@@ -3,6 +3,7 @@
 using namespace std;
 
 void change(){
+    cout<<"Are you thirsty?\n";
     cout<<"Changed after pushing to github\n";
 }
 
