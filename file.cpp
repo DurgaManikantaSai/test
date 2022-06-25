@@ -4,6 +4,7 @@ using namespace std;
 
 void change(){
     cout<<"Are you thirsty?\n";
+    cout<<"Drink soda as well\n";
     cout<<"Changed after pushing to github\n";
 }
 
